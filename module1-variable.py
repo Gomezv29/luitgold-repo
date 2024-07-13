@@ -2,5 +2,5 @@ greeting = 'Hello, friend!'
 print(greeting)
 greeting = 'Hi, everybody!'
 print(greeting)
-squirtle = 'water sprout'
+squirtle = 'get drenched!'
 print(squirtle)
