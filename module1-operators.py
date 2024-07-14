@@ -26,6 +26,7 @@ print(w // r)
 # Modulus division
 print(e % r)
 print(w % r)
+# for the 2nd example we get 1 because it is the remainder
 
 # Power operator
 print(r ** y)
